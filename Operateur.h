@@ -1,0 +1,14 @@
+//
+// Created by Antoine on 10/05/2022.
+//
+
+#ifndef PROJETCALCULATRICE_OPERATEUR_H
+#define PROJETCALCULATRICE_OPERATEUR_H
+
+
+class Operateur {
+
+};
+
+
+#endif //PROJETCALCULATRICE_OPERATEUR_H
